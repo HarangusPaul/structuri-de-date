@@ -1,0 +1,3 @@
+D:/workspace_c/sem2_Collection/cmake-build-debug/CMakeFiles/sem2_Collection.dir
+D:/workspace_c/sem2_Collection/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/workspace_c/sem2_Collection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
